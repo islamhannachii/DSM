@@ -1,0 +1,14 @@
+results/
+build/
+bin/
+obj/
+.settings/
+.cproject
+.project
+.qtenvrc
+*.o
+*.so
+*.exe
+*.bak
+*.log
+*.tmp
